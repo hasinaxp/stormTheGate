@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "*",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "*",
     "express": "*",
     "express-validator": "*",
